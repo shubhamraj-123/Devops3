@@ -14,7 +14,7 @@ spec:
         app: "apache"
     spec:
       containers:
-      - image: suraj2070/practice_node
+      - image: nginx
         imagePullPolicy: Always
         name: "apache"
         ports:

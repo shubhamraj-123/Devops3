@@ -12,7 +12,7 @@ metadata:
     app: apache-ingress
 spec:
   rules:
-    - host: app.kumarsuraj.tech
+    - host: shubhamrajbarnwal.shop
       http:
           paths:
             - path: /
